@@ -1,0 +1,6 @@
+com/taskmanager/taskmanager/repository/TaskRepository.class
+com/taskmanager/taskmanager/model/NotBlank.class
+com/taskmanager/taskmanager/model/Pattern.class
+com/taskmanager/taskmanager/controller/TaskController.class
+com/taskmanager/taskmanager/model/Task.class
+com/taskmanager/taskmanager/TaskManagerApplication.class
